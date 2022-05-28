@@ -1,4 +1,4 @@
-# js-boilerplate
+# html-css-js-boilerplate
 
 HTML, CSS and JS with basic webpack and eslint config.  
   
